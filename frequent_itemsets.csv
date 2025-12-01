@@ -1,0 +1,40 @@
+support,itemsets
+0.993375,frozenset({'Product_Demand_Score'})
+0.0535,frozenset({'Product_Butter'})
+0.05325,"frozenset({'Product_Demand_Score', 'Product_Butter'})"
+0.052625,frozenset({'Product_Shampoo'})
+0.052375,"frozenset({'Product_Shampoo', 'Product_Demand_Score'})"
+0.051375,frozenset({'Product_Coffee'})
+0.051375,frozenset({'Product_Coke'})
+0.05125,frozenset({'Product_Tea'})
+0.051125,"frozenset({'Product_Demand_Score', 'Product_Coke'})"
+0.051125,"frozenset({'Product_Coffee', 'Product_Demand_Score'})"
+0.050625,"frozenset({'Product_Demand_Score', 'Product_Tea'})"
+0.05,frozenset({'Product_Salt'})
+0.05,frozenset({'Product_Soap'})
+0.04975,"frozenset({'Product_Soap', 'Product_Demand_Score'})"
+0.04975,frozenset({'Product_Toothpaste'})
+0.04975,frozenset({'Product_Oil'})
+0.049625,frozenset({'Product_Chocolate'})
+0.049625,frozenset({'Product_Rice'})
+0.049625,"frozenset({'Product_Oil', 'Product_Demand_Score'})"
+0.0495,"frozenset({'Product_Toothpaste', 'Product_Demand_Score'})"
+0.0495,frozenset({'Product_Biscuit'})
+0.049375,"frozenset({'Product_Rice', 'Product_Demand_Score'})"
+0.049375,frozenset({'Product_Paneer'})
+0.049375,"frozenset({'Product_Paneer', 'Product_Demand_Score'})"
+0.04925,"frozenset({'Product_Demand_Score', 'Product_Salt'})"
+0.04925,"frozenset({'Product_Biscuit', 'Product_Demand_Score'})"
+0.049,"frozenset({'Product_Chocolate', 'Product_Demand_Score'})"
+0.04875,frozenset({'Product_Juice'})
+0.048625,frozenset({'Product_Maggie'})
+0.048125,"frozenset({'Product_Juice', 'Product_Demand_Score'})"
+0.048,"frozenset({'Product_Maggie', 'Product_Demand_Score'})"
+0.047875,frozenset({'Product_Cheese'})
+0.0475,"frozenset({'Product_Cheese', 'Product_Demand_Score'})"
+0.04725,frozenset({'Product_Milk'})
+0.04725,frozenset({'Product_Pepsi'})
+0.04725,"frozenset({'Product_Demand_Score', 'Product_Pepsi'})"
+0.04725,"frozenset({'Product_Milk', 'Product_Demand_Score'})"
+0.0465,frozenset({'Product_Sugar'})
+0.04625,"frozenset({'Product_Demand_Score', 'Product_Sugar'})"
